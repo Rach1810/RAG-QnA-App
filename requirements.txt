@@ -1,0 +1,12 @@
+fastapi 
+uvicorn 
+python-multipart 
+qdrant-client 
+sentence-transformers 
+PyMuPDF
+dotenv
+pdfplumber 
+requests 
+python-multipart 
+python-dotenv
+streamlit
