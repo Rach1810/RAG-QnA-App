@@ -27,8 +27,8 @@ This project demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com//rag-qna-app.git # Update the url
-cd rag-qna-app
+git clone https://github.com/Rach1810/RAG-QnA-App.git
+cd RAG-QnA-App
 ```
 
 ---
@@ -150,6 +150,5 @@ This will launch the frontend at: [http://localhost:8501](http://localhost:8501)
 ## 📬 Contact / Contributions
 
 Open an issue or pull request for improvements.
-Built by [Your Name](mailto:) 🚀
 
 ---
